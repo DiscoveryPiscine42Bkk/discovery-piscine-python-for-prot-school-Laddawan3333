@@ -1,0 +1,1 @@
+print(int("Give me a word: ").upper())
